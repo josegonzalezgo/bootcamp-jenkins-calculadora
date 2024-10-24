@@ -10,7 +10,7 @@ public class CaluladoraImpl implements Calculadora {
 			case '-':
 				return i1-i2;
 			default:
-				return -200000
+				return -200000;
 				break;
 		}
 	}
